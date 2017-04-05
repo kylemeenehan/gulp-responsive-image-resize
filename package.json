@@ -1,0 +1,16 @@
+{
+  "name": "file-rewrite",
+  "version": "1.0.0",
+  "description": "Takes a source folder and outputs versions of the folders and files with a string replaced",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Meenehan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-image-resize": "^0.7.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
